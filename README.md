@@ -4,7 +4,7 @@ Willkommen zur offiziellen GitHub-Seite von **TimeyMonkey**, der modernen Zeiter
 
 ## Überblick
 
-**TimeyMonkey** ist eine benutzerfreundliche und leistungsstarke Zeiterfassungssoftware, die speziell für Unternehmen und Organisationen entwickelt wurde. Mit TimeyMonkey können Sie:
+**TimeyMonkey** ist eine benutzerfreundliche und leistungsstarke Zeiterfassungssoftware, die speziell für Arztpraxen und Kliniken entwickelt wurde. Mit TimeyMonkey können Sie:
 
 - Arbeitszeiten einfach und genau erfassen
 - Überstunden und Fehlzeiten verwalten
