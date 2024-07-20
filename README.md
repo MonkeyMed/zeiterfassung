@@ -28,7 +28,7 @@ Willkommen zur offiziellen GitHub-Seite von **TimeyMonkey**, der modernen Zeiter
 
 ## Kontakt
 
-Für weitere Informationen besuchen Sie bitte unsere [Website]([https://monkeymed.de](https://monkeymed.de/timemonkey-zeiterfassung-arztpraxis)) oder kontaktieren Sie uns direkt.
+Für weitere Informationen besuchen Sie bitte unsere [Website](https://monkeymed.de/timemonkey-zeiterfassung-arztpraxis) oder kontaktieren Sie uns direkt.
 
 ---
 
